@@ -1,4 +1,4 @@
-var UglifyJS = require("uglify-js");
+var UglifyJS = require("uglify-es");
 var loaderUtils = require('loader-utils');
 var sourceMap = require('source-map');
 
