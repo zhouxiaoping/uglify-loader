@@ -1,6 +1,6 @@
 {
   "name": "es-uglify-loader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Uglify.js loader for webpack",
   "main": "index.js",
   "scripts": {
@@ -23,6 +23,6 @@
   "dependencies": {
     "loader-utils": "^1.1.0",
     "source-map": "^0.7.3",
-    "uglify-js": "3.3.9"
+    "uglify-es": "3.3.9"
   }
 }
