@@ -1,5 +1,6 @@
-# uglify-loader
-Uglify loader for webpack
+# es-uglify-loader
+Uglify es loader for webpack(fork from uglify-loader)
+Use Uglify-es insteadof Uglify-js
 
 To install
 ---
